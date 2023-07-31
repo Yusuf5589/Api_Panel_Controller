@@ -1,0 +1,23 @@
+.title-login{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+.delete-btn{
+    color: black;
+    background: none; 
+    border: none;
+}
+
+
+
+.delete-btn:hover{
+    color: crimson;
+}
+
+
+.delete-btn:active{
+    color: rgb(60, 60, 255);
+}
